@@ -11,5 +11,5 @@
 6. Smooth effect for links, buttons should be used.
 
 #### The Test Task should be created and provided by link on your GitHub.
-#### Feel free to ask any questions for clarifying requirements or techical. You can contact us via email.
+#### Feel free to ask any questions for clarifying requirements or techical task.
 *Note*: You can use [TestTaskSceleton](https://github.com/Zone3000MarkupTeam/TestTaskSceleton) or any other basic  template.
