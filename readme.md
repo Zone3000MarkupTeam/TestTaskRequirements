@@ -1,6 +1,6 @@
 # Technical task requirements:
 
-## Mockups you also can fing [here!](https://drive.google.com/open?id=1ksKciF--B8mq4G3WBPxQo4q3hiRttHVg)
+## Mockups you also can find [here!](https://drive.google.com/open?id=1ksKciF--B8mq4G3WBPxQo4q3hiRttHVg)
 
 ### **Before you start test task please provide your estimation on this task**
 
